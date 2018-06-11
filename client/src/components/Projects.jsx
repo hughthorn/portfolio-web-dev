@@ -11,9 +11,6 @@ class Projects extends Component {
         <div className="columns">
           <div className="column" id="project">
             <br />
-            <br />
-            <br />
-            <br />
             <h2 className="is-size-2">
               <a id="link" href="http://colossal-position.surge.sh/">Da-Folio</a>
             </h2>
@@ -36,9 +33,6 @@ class Projects extends Component {
         <div className="columns">
           <div className="column" id="project">
             <br />
-            <br />
-            <br />
-            <br />
             <h2 className="is-size-2">
               <a id="link" href="https://travel-awesomely.herokuapp.com/login">Travel Awesomely!</a>
             </h2>
@@ -59,9 +53,6 @@ class Projects extends Component {
         <div className="columns">
           <div className="column" id="project">
             <br />
-            <br />
-            <br />
-            <br />
             <h2 className="is-size-2">
               <a id="link" href="https://git.generalassemb.ly/pages/hughthorn/project-1-sci-fi-or-fantasy/">Adventurama!</a>
             </h2>
@@ -77,9 +68,6 @@ class Projects extends Component {
           </div>
           <div className="columns">
             <div className="column" id="project">
-            <br />
-            <br />
-            <br />
             <br />
             <h2 className="is-size-2">
               <a id="link" href="https://hughthorn.github.io/colmaracademyhomepage/">Colmar Academy</a>
