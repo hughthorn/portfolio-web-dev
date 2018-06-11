@@ -9,7 +9,7 @@ function Footer(){
         <br />
         Made with React and Bulma
         <p>
-        <i class="far fa-copyright"></i>2018 Hugh Thornhill
+          <i class="far fa-copyright"></i>2018 Hugh Thornhill
         </p>
         <br />
       </footer>
