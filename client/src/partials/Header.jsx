@@ -1,23 +1,14 @@
 import React, { Component } from 'react';
-import { Route, Switch, Redirect } from 'react-router-dom';
 
-  class Header extends Component {
-    render() {
-  return (
-    <nav>
-    <h1 className="is-size-1">Hugh Thornhill</h1>
-      <p>Photographer and chef turned full-stack developer</p>
-      <ul>
-
-      </ul>
-    </nav>
-  );
+class Header extends Component {
+  render() {
+    return (
+      <div>
+        <h1 className="is-size-1 has-text-weight-bold">Hugh Thornhill</h1>
+          <p className="is-size-4">Full Stack Web Developer</p>
+          <br />
+      </div>
+    );
+  }
 }
-}
-
 export default Header;
-        // <Link to="/create">
-        // <button className="button is-large">
-        // +
-        // </button>
-        // </Link>
