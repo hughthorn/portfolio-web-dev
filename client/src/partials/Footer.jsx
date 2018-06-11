@@ -7,8 +7,11 @@ function Footer(){
       <footer>
         <Contact />
         <br />
-        <i class="far fa-copyright"></i>
-        2018 Hugh Thornhill
+        Made with React and Bulma
+        <p>
+        <i class="far fa-copyright"></i>2018 Hugh Thornhill
+        </p>
+        <br />
       </footer>
     </div>
   )
