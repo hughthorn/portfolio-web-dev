@@ -1,0 +1,19 @@
+{
+  "name": "portfolio-web-dev",
+  "version": "1.0.0",
+  "description": "Web developer portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hughthorn/portfolio-web-dev.git"
+  },
+  "author": "Hugh Thornhill",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hughthorn/portfolio-web-dev/issues"
+  },
+  "homepage": "https://github.com/hughthorn/portfolio-web-dev#readme"
+}
