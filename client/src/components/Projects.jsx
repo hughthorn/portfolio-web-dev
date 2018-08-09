@@ -34,7 +34,7 @@ class Projects extends Component {
           <div className="column" id="project">
             <br />
             <h2 className="is-size-2">
-              <a id="link" href="https://travel-awesomely.herokuapp.com/login">Travel Awesomely!</a>
+              <a id="link" href="https://travel-awesomely.herokuapp.com/">Travel Awesomely!</a>
             </h2>
             <p>Technologies used: React, Node/express, Bluma/CSS, Postgresql</p>
             <p>

@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/hughthorn/portfolio-web-dev/issues"
   },
-  "homepage": "https://github.com/hughthorn/portfolio-web-dev#readme"
+  "homepage": "https://github.com/hughthorn/portfolio-web-dev#readme",
+  "dependencies": {
+    "npm": "^6.3.0"
+  }
 }
