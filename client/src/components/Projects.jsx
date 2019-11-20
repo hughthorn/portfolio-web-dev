@@ -12,6 +12,25 @@ class Projects extends Component {
           <div className="column" id="project">
             <br />
             <h2 className="is-size-2">
+              <a id="link" href="https://packagebuilders.com/">Package Builders</a>
+            </h2>
+            <p>
+            Package Builders is a website that allows contractors list different
+            painting and moving services for clients. Potential clients can pick
+            any number of services (bundled together as packages), get in touch
+            with the contractor, and begin to work out details on the clients needs.
+            Worked on the front end using React.js and Bulma (CSS framework).
+            </p>
+          </div>
+          <div className="column" id="project">
+            <img src="../assests/package-builders-front.png" alt="package builders frontpage"/>
+
+          </div>
+        </div>
+        <div className="columns">
+          <div className="column" id="project">
+            <br />
+            <h2 className="is-size-2">
               <a id="link" href="http://colossal-position.surge.sh/">Da-Folio</a>
             </h2>
             <p>Technologies used: React, Ruby-on-Rails, Bulma/CSS, Postgresql</p>
