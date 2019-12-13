@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/hughthorn/portfolio-web-dev#readme",
   "dependencies": {
-    "npm": "^6.3.0"
+    "npm": "^6.13.4"
   }
 }
